@@ -1,0 +1,99 @@
+td {
+  border: 2px solid black;
+  width: 200px;
+  height:200px;
+  margin:0;
+  text-align: center;
+  font-size:150px;
+  font-family: Baskerville, serif;
+  cursor: pointer;
+
+}
+
+
+
+.background1{
+    background: #2B99FB;
+    opacity:0.7;
+}
+
+.background2{
+    background: #2BBE48;
+      opacity:0.7;
+}
+
+.background3{
+    background: #47F0FF;
+      opacity:0.7;
+}
+
+.background4{
+    background: #F5A160;
+      opacity:0.7;
+}
+
+.background5{
+    background: #FFA8FF;
+      opacity:0.7;
+}
+
+.background6{
+    background: #518DFF;
+      opacity:0.7;
+}
+
+.background7{
+    background: #FE4D51;
+      opacity:0.7;
+}
+
+.background8{
+    background: #39DBFE;
+      opacity:0.7;
+}
+
+.background9{
+    background: #FEA4FE;
+      opacity:0.7;
+}
+
+.board {
+
+float:right;
+}
+
+body {
+  background:url(http://www.cyborg-art.dk/Internet_Temp/the_crockett_club_final_2k.jpg)no-repeat center center fixed;
+  background-size:cover;
+
+}
+
+h1 {
+  font-family:sans-serif;
+  color:white;
+  letter-spacing:3px;
+  font-weight:lighter;
+  position:fixed;
+  left:60px;
+}
+
+p {
+  position:fixed;
+  top:600px;
+  color:white;
+
+}
+
+#character1 {
+  position:fixed;
+  top:100px;
+  left:300px;
+  opacity:1.0;
+}
+
+#character2 {
+  position:fixed;
+  top:250px;
+  left:160px;
+  opacity:1.0;
+}
